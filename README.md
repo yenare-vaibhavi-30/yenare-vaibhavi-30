@@ -6,7 +6,7 @@ I'm an MCA student passionate about Artificial Intelligence, Machine Learning, a
 
 My background in full-stack development helps me connect AI capabilities with real-world web applications. I'm currently strengthening my Python and AI/ML fundamentals while exploring Generative AI using Node.js and TypeScript.
 
-## 🚀 Current Focus
+##  Current Focus
 
 - Learning Python, NumPy, and data handling
 - Practicing programming fundamentals, OOP, and file handling
@@ -14,7 +14,7 @@ My background in full-stack development helps me connect AI capabilities with re
 - Building applications using the Google Gemini API
 - Improving my understanding of AI integration in full-stack applications
 
-## 🛠️ Technologies
+##  Technologies
 
 **Programming:** Python, TypeScript, JavaScript
 
@@ -33,13 +33,13 @@ My background in full-stack development helps me connect AI capabilities with re
 - [Gemini Full-Stack AI Chatbot](https://github.com/yenare-vaibhavi-30/gemini-ai-mini-fullstack-project) — A full-stack chatbot project using Angular, Node.js, Express.js, and Gemini API.
 - [Python Learning Journey](https://github.com/yenare-vaibhavi-30/python-learning-journey) — Python examples, exercises, and practice code.
 
-## 🌱 Learning Philosophy
+##  Learning Philosophy
 
 I believe in learning by building, understanding concepts instead of memorizing them, and documenting my progress through practical code.
 
 My goal is to grow into an AI/ML professional who can build useful, reliable, and user-focused AI applications.
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 - [GitHub](https://github.com/yenare-vaibhavi-30)
 - [LinkedIn](https://www.linkedin.com/in/vaibhavi-yenare-278a24272)
