@@ -26,7 +26,7 @@ My background in full-stack development helps me connect AI capabilities with re
 
 **Tools:** Git, GitHub, VS Code, JupyterLab
 
-## 📌 Featured Repositories
+##  Featured Repositories
 
 - [AI/ML Learning Journey](https://github.com/yenare-vaibhavi-30/ai-ml-learning-journey) — Python practice and ongoing AI/ML learning.
 - [Gemini AI Learning](https://github.com/yenare-vaibhavi-30/gemini-ai-learning) — Exploring Generative AI with Node.js, TypeScript, and the Google Gemini API.
