@@ -1,4 +1,4 @@
-# Hi there, I'm Vaibhavi Yenare 
+# Hi there, I'm Vaibhavi Yenare
 
 ### Aspiring AI/ML Engineer | Generative AI Application Developer
 
