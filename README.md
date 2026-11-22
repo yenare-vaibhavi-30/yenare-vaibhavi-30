@@ -4,7 +4,7 @@
 
 I'm an MCA student passionate about Artificial Intelligence, Machine Learning, and building practical AI-powered applications.
 
-My background in full-stack development helps me connect AI capabilities with real-world web applications. I'm currently strengthening my Python and AI/ML fundamentals while exploring Generative AI using Node.js and TypeScript.
+My background in full-stack development helps me connect AI capabilities with real-world web applications. I'm currently strengthening my Python and AI/ML fundamentals while exploring Generative AI using Node.js and TypeScript
 
 ##  Current Focus
 
